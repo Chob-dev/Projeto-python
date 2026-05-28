@@ -54,4 +54,5 @@ def list_equipamento():
                 print("ERROR\nDigites as opções corretas")
     else:
         for i in equipamento:
-            print(f"Aparelho: {i['Aparelho']}\nQuantidade: {i['Quantidade']}\nTempo usado total dos aparelhos: {i['Tempo usado']}\nPotência total dos aparelhos: {i['Potência total gasta']}")
+            print(f"Aparelho: {i['Aparelho']}\nQuantidade: {i['Quantidade']}\nTempo usado total dos aparelhos: {i['Tempo usado']}\nPotência total dos aparelhos: {i['Potência total gasta']}")            print(f"Aparelho: {i['Aparelho']}\nQuantidade: {i['Quantidade']}\nTempo usado total dos aparelhos: {i['Tempo usado']}\nPotência total dos aparelhos: {i['Potência total gasta']}")
+    return
