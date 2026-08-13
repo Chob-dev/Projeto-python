@@ -1,0 +1,19 @@
+CADASTRO:
+Aparelho: Tv:
+Quantidade: 3
+POtência total gasta: 360.0
+CADASTRO:
+Aparelho: Micro-ondas:
+Quantidade: 1
+POtência total gasta: 120.0
+O aparelho Micro-ondas foi removido da lista de equipamentos
+CADASTRO:
+Aparelho: Micro-ondas:
+Quantidade: 1
+POtência total gasta: 100.0
+O consumo total é: 104.1kWh
+Com corrente de 2.09A, recomenda-se para sua residência um disjuntor de 10A.
+Se for bandeira verde🟩: R$ 98.89.
+Se for bandeira amarela🟨: R$ 100.85.
+Se for bandeira vermelha🟥: R$ 103.54.
+Se a bandeira for vermelha2🟥🟥: R$ 107.09.
